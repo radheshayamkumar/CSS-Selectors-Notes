@@ -219,8 +219,3 @@ When two rules compete for the same element, **Specificity** determines which ru
 > **Pro Tip:** Avoid using `!important` as it breaks the natural cascading nature of CSS and makes debugging difficult.
 
 -----
-
-*Notes prepared for the Department of Computer Science / MCA Curriculum.*
-
-```
-```
