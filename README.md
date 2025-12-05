@@ -1,12 +1,4 @@
-# CSS--Notes
-
-Hello Radheshayam! It is great to see you diving into the specifics of CSS. Since you are an Assistant Professor, I have structured these notes to be "classroom-ready." You can use these for your own reference or as a handout for your students at G.H. Raisoni College.
-
-I have organized the 12 selectors from your file into logical categories, explained the syntax, and added an "Expert Corner" at the end regarding Specificity (a crucial concept for teaching how CSS actually decides which rule applies).
-
-Here are your comprehensive notes.
-
-🎨 Master Notes: CSS Selectors
+##🎨 Master Notes: CSS Selectors
 Overview: CSS Selectors are patterns used to select the element(s) you want to style. They are the bridge between your HTML structure and your visual design.
 
 1. The Basic Selectors
