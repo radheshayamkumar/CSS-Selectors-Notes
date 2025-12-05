@@ -1,21 +1,14 @@
 ````markdown
 # 🎨 CSS Selectors: The Complete Classroom Guide
 
-**Subject:** Web Development / CSS  
-**Topic:** CSS Selectors & Specificity  
-**Level:** Beginner to Intermediate
+##Subject: Web Development / CSS  
+##Topic: CSS Selectors & Specificity  
+##Level: Beginner to Intermediate
 
 ---
 
 ## 📖 Overview
 This repository contains comprehensive notes and examples for **CSS Selectors**. Selectors are the fundamental patterns used to "select" the HTML elements you want to style. Mastering them is essential for writing clean, efficient, and maintainable CSS.
-
-## 🚀 Table of Contents
-1. [Basic Selectors](#1-basic-selectors)
-2. [Combinator Selectors](#2-combinator-selectors-relationships)
-3. [Attribute & Grouping](#3-attribute--grouping-selectors)
-4. [Pseudo-Classes & Elements](#4-pseudo-classes--pseudo-elements)
-5. [🎓 Expert Corner: Specificity](#-expert-corner-specificity)
 
 ---
 
