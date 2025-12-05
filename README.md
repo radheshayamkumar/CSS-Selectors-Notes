@@ -1,4 +1,3 @@
-````markdown
 # 🎨 CSS Selectors: The Complete Classroom Guide
 
 **Subject:** Web Development / CSS  
